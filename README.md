@@ -13,6 +13,8 @@
 
 ## 📁 Recent Repositories 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Isha988&theme=dark&repo=plant-store-ecommerce)](https://github.com/Isha988/plant-store-ecommerce)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Isha988&theme=dark&repo=plant-store-ecommerce)](https://github.com/Isha988/CodingCity-Blog-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Isha988&theme=dark&repo=plant-store-ecommerce)](https://github.com/Isha988/DrPro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Isha988&theme=dark&repo=To-Do-App)](https://github.com/Isha988/To-Do-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Isha988&theme=dark&repo=react-weather-map-app)](https://github.com/Isha988/react-weather-map-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Isha988&theme=dark&repo=Text-To-Speech-App)](https://github.com/Isha988/Text-To-Speech-App)
