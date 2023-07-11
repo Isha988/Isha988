@@ -2,7 +2,7 @@
 
 [![Profile Banner](https://github.com/Isha988/Isha988/blob/main/github%20banner.png)](#)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/isha988)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isha988)
 
 ## 👩‍💻 Skills
 - Express
